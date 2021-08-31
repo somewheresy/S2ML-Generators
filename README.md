@@ -8,7 +8,7 @@
 - Parameters and Execution blocks merged into single blocks.
 - Fixed potential "interestingness" bug with VQGAN+CLIP method
 - Exposed four new experimental/advanced parameters for fine-tuning VQGAN+CLIP method
-- Updated ffmpeg block to work with CLIP-guided diffusion method
+- Updating ffmpeg block in 1.3.1 to work with CLIP-guided diffusion method, started fixing this in 1.3.0
 
 ## Version 1.2.3
 #### August 26, 2021
