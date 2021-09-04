@@ -1,6 +1,14 @@
 # somewhere-ml
 #### Machine learning experiments + VQGAN+CLIP / Guided Diffusion multimodal art generator notebook
 # S2 GAN Art Generator Changelog
+## Version 1.4.0
+#### September 4, 2021
+- Fixed CLIP-guided diffusion method
+- Exposed new CLIP model selection for both VQGAN+CLIP and diffusion methods
+- Removed excess instructional text ahead of Wiki launch
+- Added the ability to generate a video regardless of method
+- Exposed new parameters in the Generate a Video block
+
 ## Version 1.3.0
 #### August 30, 2021
 - Moved changelog to README.md
