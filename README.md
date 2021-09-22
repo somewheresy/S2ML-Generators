@@ -1,6 +1,6 @@
 # S2ML Art Generator
 #### Two notebooks which allow the use of VQGAN+CLIP as well as CLIP-guided diffusion for generating images from text or image prompts. Includes ESRGAN implementation for upscaling and ffmpeg for video generation.
-# S2ML Art Generator Changelog
+# Changelog
 ## Version 1.5.1
 - Name change! Since this notebook contains methods which aren't constrained specifically to utilized GANs (generative adversarial networks), a new name has been chosen: S2ML Art Generator! Future tools which are in development for generating sounds, continuing samples & even writing lyrics will carry the S2ML prefix so long as those tools leverage machine learning.
 ## Version 1.5.0
