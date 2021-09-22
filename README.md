@@ -1,6 +1,14 @@
 # somewhere-ml
 #### Machine learning experiments + VQGAN+CLIP / Guided Diffusion multimodal art generator notebook
 # S2 GAN Art Generator Changelog
+## Version 1.5.0
+#### September 21, 2021
+- Removed ISR for image upscaling and replaced it with an ESRGAN implementation
+- Added the ability to upscale a folder of images or a single target image
+- Added the option to upscale either default outputs or upscaled image sequence ({abs_root_path}/ESRGAN/results/ directory)
+- Fixed some markdown issues, removed bad wording from older notebooks
+- Added a block to delete all generated output for advanced troubleshooting & tidy-ness
+
 ## Version 1.4.0
 #### September 4, 2021
 - Fixed CLIP-guided diffusion method
