@@ -5,7 +5,7 @@
 #### September 21, 2021
 - Removed ISR for image upscaling and replaced it with an ESRGAN implementation
 - Added the ability to upscale a folder of images or a single target image
-- Added the option to upscale either default outputs or upscaled image sequence ({abs_root_path}/ESRGAN/results/ directory)
+- Added the option to generate a video using ffmpeg using either default outputs or upscaled image sequence ({abs_root_path}/ESRGAN/results/ directory)
 - Fixed some markdown issues, removed bad wording from older notebooks
 - Added a block to delete all generated output for advanced troubleshooting & tidy-ness
 
