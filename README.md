@@ -1,5 +1,5 @@
 # S2ML Art Generator
-#### Two notebooks which allow the use of VQGAN+CLIP as well as CLIP-guided diffusion for generating images from text or image prompts. Includes ESRGAN implementation for upscaling and ffmpeg for video generation.
+
 # Changelog
 ## Version 1.5.2
 - CLIP-Guided diffusion method now allows for a variable number of steps.
