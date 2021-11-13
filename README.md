@@ -1,6 +1,12 @@
-# S2ML Art Generator
+# S2ML Generators
 
 # Changelog
+
+## Version 1.5.3
+- To make room for new notebooks I am forking from the S2ML Image Generator (neé S2ML Art Generator), the repo has been renamed to S2ML-Generators
+- S2ML Art Generator renamed to S2ML Image Generator
+- Keep an eye out for the S2ML Video Generator
+
 ## Version 1.5.2
 - CLIP-Guided diffusion method now allows for a variable number of steps.
 
