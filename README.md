@@ -2,6 +2,11 @@
 
 # Changelog
 
+## Version 1.5.4
+- Fixed Issue #9 https://github.com/justin-bennington/S2ML-Generators/issues/9, ESRGAN upscaling will no longer transpose the colors of your image wrong
+- Added setting in diffusion method for enabling gradient checkpointing, which saves VRAM but takes longer to compute images (useful if you're having memory issues, or trying to load a heavy model)
+- Removed some informal text
+
 ## Version 1.5.3
 - To make room for new notebooks I am forking from the S2ML Image Generator (neé S2ML Art Generator), the repo has been renamed to S2ML-Generators
 - S2ML Art Generator renamed to S2ML Image Generator
