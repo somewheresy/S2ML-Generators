@@ -2,6 +2,9 @@
 
 # Changelog
 
+## Version 1.6
+- No changes to code. People have asked if they can tip me for working on this for free. In light of a new employment opportunity, I am now accepting donations -- not here, but I will match any donation made to The Okra Project (https://www.artsbusinesscollaborative.org/fiscal-sponsorship/okra-project) up to $5000 annually. The donation match will start in June 2022 and will count retroactively towards any donations made from the date of this update. 
+
 ## Version 1.5.4
 - Fixed Issue #9 https://github.com/justin-bennington/S2ML-Generators/issues/9, ESRGAN upscaling will no longer transpose the colors of your image wrong
 - Added setting in diffusion method for enabling gradient checkpointing, which saves VRAM but takes longer to compute images (useful if you're having memory issues, or trying to load a heavy model)
