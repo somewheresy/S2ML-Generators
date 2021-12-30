@@ -1,6 +1,9 @@
 # S2ML Generators
 
 # Changelog
+## Version 1.6.1
+- Fixed the directory for Guided Diffusion models
+- Minor clean-up, fixes, etc.
 
 ## Version 1.6
 - No changes to code. People have asked if they can tip me for working on this for free. In light of a new employment opportunity, I am now accepting donations -- not here, but I will match any donation made to The Okra Project (https://www.artsbusinesscollaborative.org/fiscal-sponsorship/okra-project) up to $5000 annually. The donation match will start in June 2022 and will count retroactively towards any donations made from the date of this update. 
