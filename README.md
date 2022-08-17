@@ -2,7 +2,9 @@
 
 # Changelog
 ## Version 1.7
-- Working on a new notebook: Somewhere Diffusion. This notebook will combine two processes: 1. Generating a dataset from images retrieved by proximity to a text prompt in the CLIP latent space, and then using that model, or a combination of models to generate images via Diffusion.
+- Working on a new notebook: Somewhere Diffusion. This notebook will combine two processes: 
+- 1. Generating a dataset from images retrieved by proximity to a text prompt in the CLIP latent space
+- 2. Using that model, or a combination of models to generate images via Diffusion
 
 ## Version 1.6.1
 - Fixed the directory for Guided Diffusion models
