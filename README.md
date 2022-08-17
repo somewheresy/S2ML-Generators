@@ -2,7 +2,7 @@
 
 # Changelog
 ## Version 1.7
-- Working on a new notebook: Somewhere Diffusion. This notebook will combine two processes: 
+- Working on a new notebook: *Somewhere Diffusion*. This notebook will combine three processes: 
 - 1. Generating a dataset from images retrieved by proximity to a text prompt in the CLIP latent space
 - 2. Using that model, or a combination of models to generate images via Diffusion at a reasonable resolution
 - 3. Upscaling that image with ESRGAN
