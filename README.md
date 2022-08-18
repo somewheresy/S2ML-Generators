@@ -6,6 +6,7 @@
 - 1. Generating a dataset from images retrieved by proximity to a text prompt in the CLIP latent space
 - 2. Using that model, or a combination of models to generate images via Diffusion at a reasonable resolution
 - 3. Upscaling that image with ESRGAN
+- The repository for this notebook is located here: https://github.com/somewheresy/somewhere-diffusion
 
 ## Version 1.6.1
 - Fixed the directory for Guided Diffusion models
